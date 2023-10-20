@@ -69,8 +69,7 @@
 
 <br/><br/>
 <hr/>
-<div>[![@aliamanatali's Holopin board](https://holopin.io/api/user/board?user=aliamanatali)](https://holopin.io/@aliamanatali)
-</div>
+[![An image of @aliamanatali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aliamanatali#)](https://holopin.io/@aliamanatali#)
 <br/><br/>
 <hr/>
 <h3 align="center">
