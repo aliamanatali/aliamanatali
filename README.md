@@ -52,6 +52,8 @@
   <br/><br/><br/>
 </div>
 
+![Snake animation](https://github.com/{{aliamanatali}}/{{aliamanatali}}/blob/output/github-contribution-grid-snake.svg)
+
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
