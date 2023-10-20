@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **MERN Stack**
  
- 🌱 I’m currently learning **Kotlin, and React Native Expo**
+ 🌱 I’m currently learning **Kotlin, Computer Vision and AWS**
 
  💬 Ask me about **React.js, Node.js, Express.js, MongoDB... or anything [here](https://github.com/aliamanatali/aliamanatali/issues)**
 
