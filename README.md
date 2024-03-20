@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **MERN Stack**
 
- 💬 Ask me about **React.js, Next.js, Node.js, Express.js, Graph QL, MongoDB... or anything [here](https://linkedin/in/aliamanatali)**
+ 💬 Ask me about **React.js, Next.js, Node.js, Express.js, Graph QL, MongoDB... or anything [here](https://linkedin.com/in/aliamanatali)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
