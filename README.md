@@ -11,10 +11,8 @@
 <div align="center">
  
  🔭 I’m currently working on **MERN Stack**
- 
- 🌱 I’m currently learning **Kotlin, Computer Vision and Next.js**
 
- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB... or anything [here](https://github.com/aliamanatali/aliamanatali/issues)**
+ 💬 Ask me about **React.js, Next.js, Node.js, Express.js, Graph QL, MongoDB... or anything [here](https://linkedin/in/aliamanatali)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
