@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **MERN Stack**
+ 🔭 I’m currently working on **React, Next, Node, Express, Nest, Fast API Stack**
 
  💬 Ask me about **React.js, Next.js, Node.js, Express.js, Graph QL, MongoDB, AWS... or anything [here](https://linkedin.com/in/aliamanatali)**
  
