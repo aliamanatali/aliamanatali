@@ -17,7 +17,7 @@
   &nbsp;
   <a href="mailto:aliamanatali218@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Ali Amanat Ali" /></a>
   &nbsp;
-  <a href="https://github.com/aliamanatali/aliamanatali/blob/main/Ali_Amanat_Ali_Resume.pdf"><img src="https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Ali Amanat Ali's resume" /></a>
+  <a href="https://github.com/aliamanatali/aliamanatali/raw/main/Ali_Amanat_Ali_Resume.pdf"><img src="https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Ali Amanat Ali's resume" /></a>
   &nbsp;
   <a href="https://github.com/aliamanatali?tab=repositories"><img src="https://img.shields.io/badge/Repositories-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Ali Amanat Ali's repositories" /></a>
 </p>
