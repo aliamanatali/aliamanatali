@@ -24,6 +24,20 @@
 
  <hr/>
  
+<h2 align="center">🌱 Open Source 🌱</h2>
+<br/>
+
+| Project | Contribution | Status |
+|---|---|---|
+| [tRPC](https://github.com/trpc/trpc) | [Back off when the server rejects a websocket connection](https://github.com/trpc/trpc/pull/7833) | Released in [v11.24.0](https://github.com/trpc/trpc/releases/tag/v11.24.0) |
+| [tRPC](https://github.com/trpc/trpc) | [Stop counting a rejection once the socket gets a result](https://github.com/trpc/trpc/pull/7860) | Merged |
+| [Vitest](https://github.com/vitest-dev/vitest) | [Treat Edge as Chromium in `toHaveStyle`](https://github.com/vitest-dev/vitest/pull/11813) | Released in [v5.1.0](https://github.com/vitest-dev/vitest/releases/tag/v5.1.0) |
+| [Vitest](https://github.com/vitest-dev/vitest) | [Env var to hide the experimental typecheck warning](https://github.com/vitest-dev/vitest/pull/11840) | Merged |
+| [Better Auth](https://github.com/better-auth/better-auth) | [Refresh remembered sessions after a `rememberMe: false` sign-in](https://github.com/better-auth/better-auth/pull/12181) | Released in [v1.7.17](https://github.com/better-auth/better-auth/releases/tag/v1.7.17) |
+
+<br/>
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
