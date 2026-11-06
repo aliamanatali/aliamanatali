@@ -32,8 +32,8 @@
 | Project | Contribution | Status |
 |---|---|---|
 | [tRPC](https://github.com/trpc/trpc) | [Back off when the server rejects a websocket connection](https://github.com/trpc/trpc/pull/7833) | ![Released in v11.24.0](https://img.shields.io/badge/released-v11.24.0-2ea44f) |
-| [tRPC](https://github.com/trpc/trpc) | [Stop counting a rejection once the socket gets a result](https://github.com/trpc/trpc/pull/7860) | ![Merged](https://img.shields.io/badge/merged-8250df) |
-| [tRPC](https://github.com/trpc/trpc) | [Isolate retired WebSocket close and error events](https://github.com/trpc/trpc/pull/7727) (co-author, from my review of [#7910](https://github.com/trpc/trpc/pull/7910)) | ![Merged](https://img.shields.io/badge/merged-8250df) |
+| [tRPC](https://github.com/trpc/trpc) | [Stop counting a rejection once the socket gets a result](https://github.com/trpc/trpc/pull/7860) | ![Released in v11.25.0](https://img.shields.io/badge/released-v11.25.0-2ea44f) |
+| [tRPC](https://github.com/trpc/trpc) | [Isolate retired WebSocket close and error events](https://github.com/trpc/trpc/pull/7727) (co-author, from my review of [#7910](https://github.com/trpc/trpc/pull/7910)) | ![Released in v11.25.0](https://img.shields.io/badge/released-v11.25.0-2ea44f) |
 | [Vitest](https://github.com/vitest-dev/vitest) | [Treat Edge as Chromium in `toHaveStyle`](https://github.com/vitest-dev/vitest/pull/11813) | ![Released in v5.1.0](https://img.shields.io/badge/released-v5.1.0-2ea44f) |
 | [Vitest](https://github.com/vitest-dev/vitest) | [Option to silence the experimental typecheck warning](https://github.com/vitest-dev/vitest/pull/11840) | ![Merged](https://img.shields.io/badge/merged-8250df) |
 | [Better Auth](https://github.com/better-auth/better-auth) | [Refresh remembered sessions after a `rememberMe: false` sign-in](https://github.com/better-auth/better-auth/pull/12181) | ![Released in v1.7.17](https://img.shields.io/badge/released-v1.7.17-2ea44f) |
