@@ -9,7 +9,7 @@
 <p align="center">
   Building full stack products with <b>Next.js, React, TypeScript, Node.js and FastAPI</b>
   <br/>
-  <sub>Open source contributor to tRPC, Vitest and Better Auth</sub>
+  <sub>Open source contributor to tRPC, Vitest, Better Auth and Logto</sub>
 </p>
 
 <p align="center">
@@ -38,6 +38,7 @@
 | [Vitest](https://github.com/vitest-dev/vitest) | [Option to silence the experimental typecheck warning](https://github.com/vitest-dev/vitest/pull/11840) | ![Merged](https://img.shields.io/badge/merged-8250df) |
 | [Vitest](https://github.com/vitest-dev/vitest) | [Allow assigning to `import.meta.env`](https://github.com/vitest-dev/vitest/pull/11841) | ![Merged](https://img.shields.io/badge/merged-8250df) |
 | [Better Auth](https://github.com/better-auth/better-auth) | [Refresh remembered sessions after a `rememberMe: false` sign-in](https://github.com/better-auth/better-auth/pull/12181) | ![Released in v1.7.17](https://img.shields.io/badge/released-v1.7.17-2ea44f) |
+| [Logto](https://github.com/logto-io/logto) | [Send a Cross-Origin-Opener-Policy for the Admin Console](https://github.com/logto-io/logto/pull/10020) | ![Merged](https://img.shields.io/badge/merged-8250df) |
 
 </div>
 
