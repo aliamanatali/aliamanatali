@@ -38,6 +38,7 @@
 | [Vitest](https://github.com/vitest-dev/vitest) | [Option to silence the experimental typecheck warning](https://github.com/vitest-dev/vitest/pull/11840) | ![Released in v5.1.1](https://img.shields.io/badge/released-v5.1.1-2ea44f) |
 | [Vitest](https://github.com/vitest-dev/vitest) | [Allow assigning to `import.meta.env`](https://github.com/vitest-dev/vitest/pull/11841) | ![Released in v5.1.1](https://img.shields.io/badge/released-v5.1.1-2ea44f) |
 | [Better Auth](https://github.com/better-auth/better-auth) | [Refresh remembered sessions after a `rememberMe: false` sign-in](https://github.com/better-auth/better-auth/pull/12181) | ![Released in v1.7.17](https://img.shields.io/badge/released-v1.7.17-2ea44f) |
+| [Better Auth](https://github.com/better-auth/better-auth) | [Keep the user when its deletion fails or a hook vetoes it](https://github.com/better-auth/better-auth/pull/12858) (co-author, from my [#12346](https://github.com/better-auth/better-auth/pull/12346)) | ![Merged](https://img.shields.io/badge/merged-8250df) |
 | [Logto](https://github.com/logto-io/logto) | [Send a Cross-Origin-Opener-Policy for the Admin Console](https://github.com/logto-io/logto/pull/10020) | ![Merged](https://img.shields.io/badge/merged-8250df) |
 
 </div>
